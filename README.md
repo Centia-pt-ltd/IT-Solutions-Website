@@ -15,24 +15,29 @@
 
 - Visual Studio Framework 4.0 or above.
 
-- MS SQL 2008R2 or above.
+
 
 ## Tech Stack
 
 - Visual Studio 2010 or above.
 
-- MS SQL 2008R2 or above.
+
   
 ## Language
 
-- ASP.NET
+- HTML
 
 - CSS
 
 - JavaScript
 
+## Website link
+https://www.sevaklimited.com/
 
- 
+## Screenshot
+
+ ![Screenshot (74)](https://user-images.githubusercontent.com/92842316/141062766-8b9e3b20-d03a-44e1-a64c-3bc346da3fca.png)
+
 
 
 
@@ -44,7 +49,7 @@
 
 ## License
 
-Copyright (c) [2021] [icybersecurities.com]
+Copyright (c) [2021] 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

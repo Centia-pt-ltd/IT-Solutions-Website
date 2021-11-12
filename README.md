@@ -24,12 +24,13 @@
 
   
 ## Language
-
+- ASP .NET
 - HTML
 
 - CSS
 
 - JavaScript
+- Bootstrap
 
 ## Website link
 https://www.sevaklimited.com/
